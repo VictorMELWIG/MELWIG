@@ -1,5 +1,5 @@
 #remise standard si le prixTTC dépasse 20k euros
-remise = 0.10  # 10%
+remise = 0.10  #10%
 
 #saisie du mot de passe pour accéder au programme
 mdp = input('Veuillez saisir votre mdp: ')
