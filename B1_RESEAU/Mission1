@@ -2,3 +2,9 @@
 255.255.0.0
 2. A quel sous-réseau IP appartient chaque machine ? Justifier 
 M1 M2 et M3 appartiennent tous au même sous-réseau 192.168.0.0 avec un masque de sous-réseau de 255.255.0.0 (notation CIDR : /16)
+3. Peuvent-elles potentiellement communiquer entre elles ? Justifier.
+Oui les machines peuvent potentiellement communiquer entre elles car elles appartiennent au même sous-réseau 192.168.0.0/16.
+4. Peuvent-elles dans les conditions physiques présentées ci-dessus communiquer entre elles ? Justifier.
+si elles sont connectées à un réseau commun (par un switch ou un routeur) vu qu’elles appartiennent au même sous-réseau elles pourront alors communiquer sans problème
+5. Quelle commande sur le terminal Filius permet de voir la configuration IP d’une STA ?
+ipconfig
