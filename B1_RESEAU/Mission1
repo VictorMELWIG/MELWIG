@@ -1,1 +1,4 @@
-
+1. Quel est le masque de sous-réseau de chaque machine ? 
+255.255.0.0
+2. A quel sous-réseau IP appartient chaque machine ? Justifier 
+M1 M2 et M3 appartiennent tous au même sous-réseau 192.168.0.0 avec un masque de sous-réseau de 255.255.0.0 (notation CIDR : /16)
