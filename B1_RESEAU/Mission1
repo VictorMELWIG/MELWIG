@@ -3,7 +3,7 @@ Etape 1 :
 1. Quel est le masque de sous-réseau de chaque machine ? 
 255.255.0.0
 2. A quel sous-réseau IP appartient chaque machine ? Justifier 
-M1 M2 et M3 appartiennent tous au même sous-réseau 192.168.0.0 avec un masque de sous-réseau de 255.255.0.0 (notation CIDR : /16)
+M1 M2 et M3 appartiennent tous au même sous-réseau 192.168.0.0/16 avec un masque de sous-réseau de 255.255.0.0 (notation CIDR : /16)
 3. Peuvent-elles potentiellement communiquer entre elles ? Justifier.
 Oui les machines peuvent potentiellement communiquer entre elles car elles appartiennent au même sous-réseau 192.168.0.0/16.
 4. Peuvent-elles dans les conditions physiques présentées ci-dessus communiquer entre elles ? Justifier.
@@ -19,18 +19,18 @@ J'ai ajouté un switch, le switch facilite une communication plus efficace dans 
 en fonction de leurs adresses MAC, sans inonder tous les autres appareils avec des trames inutiles.
 2. Nous aurions pu rajouter un hub a la place du switch, le hub est un appareil plus simple et moins performant que le switch.
 3. Est-ce que toutes les machines peuvent maintenant communiquer entre elles ? Justificateur.
- Oui car toutes les machines ont une adresse IP unique dans la plage 192.168.0.1 à 192.168.255.254 et partagent le masque de sous-réseau 255.255.0.0
+ Oui car toutes les machines ont une adresse IP unique dans la plage 192.168.0.1/16 à 192.168.255.254/16 et partagent le masque de sous-réseau 255.255.0.0
 4. Si nécessaire, corriger les configurations pour permettre à toutes les STAs de communiquer entre elles. Quelles sont les modifications apportées ?
-(M1)192.168.10.10 (M2)192.168.0.10 (M3)192.168.0.20 
+(M1)192.168.10.10/16 (M2)192.168.0.10/16 (M3)192.168.0.20/16 
 5. Si M1 veut envoyer un message à toutes les machines de son sous-réseau, quelle adresse logique peut-elle utiliser ? 
-ping 192.168.10.255
+ping 192.168.10.255/16
 
 Eatpe 3 : 
 1. A quel réseau logique appartient la 4e machine (M4) ? Est-ce le même que celui des Machines M1, M2 et M3 ? Justificateur
-M4 (192.168.0.10) appartient au même réseau logique que M2 (192.168.0.10) et M3 (192.168.0.20)
+M4 (192.168.0.10/16) appartient au même réseau logique que M2 (192.168.0.10/16) et M3 (192.168.0.20/16)
 2. M4 peut-elle communiquer avec M1, M2 ou M3 ? Justificateur. 
  Oui car tous les appareils partagent le même masque de sous-réseau (/16) ce qui leur permet de voir les autres comme des adresses accessibles sur le même réseau local
-les adresses IP sont compatibles : Les adresses de M4 (192.168.0.30) se trouvent dans la même plage d'adresses que celles de M1, M2 et M3
+les adresses IP sont compatibles : Les adresses de M4 (192.168.0.30/16) se trouvent dans la même plage d'adresses que celles de M1, M2 et M3
 3. Si nécessaire, reconfigurer M2 pour lui permettre d’échanger des messages avec M4. Quels sont les changements nécessaires ?
 Pas besoin puisqu'ils peuvent deja communiquer entre eux.
 4. Est-ce que M1 et M2 peuvent toujours communiquer ? Justificateur.
