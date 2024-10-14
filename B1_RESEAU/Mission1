@@ -17,7 +17,7 @@ Etape 2 :
 1. Quel média de communication a été ajouté ? Expliquer brièvement son fonctionnement.
 J'ai ajouté un switch, le switch facilite une communication plus efficace dans un réseau local en dirigeant les paquets de données directement entre les appareils, 
 en fonction de leurs adresses MAC, sans inonder tous les autres appareils avec des trames inutiles.
-2. Nous aurions pu rajouter un concentrateur a la place du switch, le hub est un appareil plus simple et moins performant que le switch.
+2. Nous aurions pu rajouter un concentrateur a la place du switch.
 3. Est-ce que toutes les machines peuvent maintenant communiquer entre elles ? Justificateur.
  Oui car toutes les machines ont une adresse IP unique dans la plage 192.168.0.1/16 à 192.168.255.254/16 et partagent le masque de sous-réseau 255.255.0.0
 4. Si nécessaire, corriger les configurations pour permettre à toutes les STAs de communiquer entre elles. Quelles sont les modifications apportées ?
