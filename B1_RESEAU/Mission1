@@ -27,7 +27,7 @@ ping 192.168.255.255/16
 
 Eatpe 3 : 
 1. A quel réseau logique appartient la 4e machine (M4) ? Est-ce le même que celui des Machines M1, M2 et M3 ? Justificateur
-M4 (192.169.0.10/16)publique 
+M4 (192.169.0.10/16)publique nan car M4 est a 169 et les autres 168
 2. M4 peut-elle communiquer avec M1, M2 ou M3 ? Justificateur. 
  Oui car tous les appareils partagent le même masque de sous-réseau (/16) ce qui leur permet de voir les autres comme des adresses accessibles sur le même réseau local
 les adresses IP sont compatibles : Les adresses de M4 (192.168.0.30/16) se trouvent dans la même plage d'adresses que celles de M1, M2 et M3
