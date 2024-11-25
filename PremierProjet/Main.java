@@ -1,4 +1,4 @@
-<--! MELWIG Victor 25/11/2024!-->
+MELWIG Victor 25/11/2024 Premier Projet avec IntelliJ 
 import java.util.Scanner;
 
 public class Main {
