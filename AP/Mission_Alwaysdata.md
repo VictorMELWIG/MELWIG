@@ -40,8 +40,10 @@ Le protocole FTP permet aussi le transfert de fichiers, mais il n'est pas sécur
 ### Connexion SSH au serveur
 Commande pour se connecter :
 ```sh
-ssh utilisateur@serveur.alwaysdata.net 
+ssh victormelwig@ssh-victormelwig.alwaysdata.net 
 ```
+
+![Image](https://github.com/user-attachments/assets/b70cb61f-6e9c-4793-9da0-40befc80fe38)
 
 ### Répertoire où déposer les fichiers du site
 Les fichiers doivent être placés dans :
@@ -49,12 +51,13 @@ Les fichiers doivent être placés dans :
 /home/victormelwig/www/
 ```
 
+![Image](https://github.com/user-attachments/assets/0270a8ed-dffa-4085-a0cb-0ec819927c3d)
 ---
 
 ## Étape 2 : Copier le contenu sur Alwaysdata
 
 ### Chemins absolus
-- Chemin local : `/home/user/mon_site/`
+- Chemin local : `/c:/Users/melwi/desktop/CoursHecten/HTML/portfolio`
 - Chemin distant : `/home/victormelwig/www/`
 
 ### Utilisation de `scp` et `rsync`
@@ -64,27 +67,26 @@ Ces commandes permettent de transférer des fichiers via SSH.
 
 ### Commande `scp` pour envoyer les fichiers :
 ```sh
-scp -r c:/Users/melwi/desktop/CoursHecten/HTML/portefolio/ victormelwig@ssh-victormelwig.alwaysdata.net:/home/victormelwig/www/
+scp -r c:/Users/melwi/desktop/CoursHecten/HTML/portfolio/ victormelwig@ssh-victormelwig.alwaysdata.net:/home/victormelwig/www/
 ```
 
-### Commande `rsync` pour synchroniser :
-```sh
-rsync -avz /home/user/mon_site/ utilisateur@serveur.alwaysdata.net:/home/utilisateur/www/
-```
+![Image](https://github.com/user-attachments/assets/0280a17d-6faa-4d07-a579-718e3a8a3041)
 
 ### Vérification de l'ajout
 1. Se connecter en SSH :
    ```sh
-   ssh utilisateur@serveur.alwaysdata.net
+   ssh victormelwig@ssh-victormelwig.alwaysdata.net
    ```
+   ![Image](https://github.com/user-attachments/assets/dfd9aef7-05f4-4819-9966-cb2be988e58b)
 2. Vérifier les fichiers :
    ```sh
-   ls -l /home/utilisateur/www/
+   ls -l /home/victormelwig/www/
    ```
+   ![Image](https://github.com/user-attachments/assets/1a3fef04-9d81-4004-af73-26e324dc2dcb)
 
 ### URL pour accéder au site
 ```
-https://monportfolio.alwaysdata.net
+https://monportfolio.alwaysdata.net](https://victormelwig.alwaysdata.net/portfolio/
 ```
 
 ---
@@ -94,8 +96,9 @@ https://monportfolio.alwaysdata.net
 ### Méthode via `.htaccess`
 1. Créer un fichier `.htaccess` dans le dossier à protéger :
    ```sh
-   nano /home/utilisateur/www/protected/.htaccess
+   nano /home/victormelwig/www/protected/.htaccess
    ```
+   ![Image](https://github.com/user-attachments/assets/b5b78767-42aa-46c7-af7b-b7a379dfa58c)
 2. Ajouter les lignes suivantes :
    ```apache
    AuthType Basic
@@ -105,12 +108,12 @@ https://monportfolio.alwaysdata.net
    ```
 3. Créer un fichier `.htpasswd` :
    ```sh
-   htpasswd -c /home/utilisateur/.htpasswd nom_utilisateur
+   htpasswd -c /home/victormelwig/.htpasswd victormelwig
    ```
 
 Secret de connexion :
 - Nom d'utilisateur : `professeur`
-- Mot de passe : `à communiquer séparément`
+- Mot de passe : `$apr1$LDFBtQJZ$nLiMB9yhEPx5zmgo9zOes/`
 
 ---
 
@@ -135,8 +138,8 @@ Cela remplace le mot de passe et sécurise la connexion.
    ```
 2. Copier la clé publique sur Alwaysdata :
    ```sh
-   ssh-copy-id utilisateur@serveur.alwaysdata.net
+   ssh-copy-id victormelwig@ssh-victormelwig.alwaysdata.net
    ```
 3. Vérifier la connexion sans mot de passe :
    ```sh
-   ssh utilisateur@serveur.alwaysdata.net
+   ssh victormelwig@ssh-victormelwig.alwaysdata.net
