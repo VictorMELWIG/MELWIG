@@ -78,6 +78,33 @@ Je me suis créé un compte sur Le Journal du Geek, un site d'actualités techno
 
 ---
 
+## 📌 Nouvelle fuite de données importante
+
+### La Caisse des dépôts victime d’une fuite de données
+📌 *Après un accès illégitime à sa plateforme retraite, des données relatives à 70 000 personnes, dont des élus locaux, ont été volées.*
+
+**Par Gabriel Thierry**  
+Publié le 17/02/2025 à 10:08 | 2 min
+
+La Caisse des dépôts vient d’être victime d’une importante fuite de données. L’institution financière publique déplore en effet une violation de données concernant environ 70 000 personnes. Il s'agit d'agents contractuels de la fonction publique, d'élus locaux ou encore de praticiens hospitaliers.
+
+Ces derniers, prévenus comme le veut la réglementation, ont désormais perdu le contrôle de plusieurs informations personnelles. Il s’agit de leur numéro de sécurité sociale, leurs noms et prénoms, leur date, département et la ville de naissance, et enfin leur adresse postale quand elle était renseignée.
+
+Par contre, les attaquants n’ont pas mis la main sur des données bancaires, des mots de passe, des adresses courriel et des numéros de téléphone. Outre une notification à la Cnil, une plainte "a été déposée auprès des autorités compétentes", précise la Caisse des dépôts.
+
+**Identifiants volés**  
+Des pirates non identifiés ont réussi à prendre le contrôle d’identifiants de connexion à la plateforme permettant aux employeurs publics "de remplir leurs obligations auprès des régimes de retraite". Ces identifiants utilisés frauduleusement ont permis à l’attaquant d’accéder "de manière illégitime à des données personnelles de certains affiliés à l’Ircantec", la retraite complémentaire d'un contractuel de la fonction publique.
+
+**Mesures prises**  
+La Caisse des dépôts a immédiatement pris les mesures pour remédier à la violation, bloquer les connexions frauduleuses et renforcer le contrôle sur la création de comptes. Elle a également renforcé la sécurité de son système informatique et vérifié l'absence de modifications frauduleuses.
+
+**Recommandations de la Cnil et de l'Anssi**  
+La Cnil et l'Anssi rappellent l'importance de l'authentification multifacteur et de la défense en profondeur, ainsi que l'analyse en temps réel des flux réseaux pour détecter une activité anormale.
+
+🔗 [Lire l'article complet](#)
+
+---
+
 ### 📀 Conclusion : 
 
 La cybersécurité évolue constamment face aux menaces croissantes. Les attaques par botnet exploitent les failles des entreprises peu préparées. La vigilance et les bonnes pratiques sont essentielles pour limiter les risques.
@@ -85,6 +112,7 @@ La cybersécurité évolue constamment face aux menaces croissantes. Les attaque
 ---
 
 🔎 À suivre... 🚀
+
 
 
 
