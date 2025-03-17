@@ -116,6 +116,7 @@ Microsoft Threat Intelligence a révélé qu'une vaste campagne de logiciels mal
 🔍 Activer SmartScreen pour bloquer les sites suspects
 ❌ Ne pas enregistrer ses mots de passe dans le navigateur
 🚫 Éviter les sites de streaming illégaux et utiliser un bloqueur de publicité
+
 🔗 [Lire l’article](https://www.journaldugeek.com/2025/03/15/les-pubs-pourries-des-sites-illegaux-menent-a-des-infections-massives/)
 
 ### 📀 Conclusion : 
