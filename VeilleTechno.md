@@ -105,6 +105,19 @@ La Cnil et l'Anssi rappellent l'importance de l'authentification multifacteur et
 
 ---
 
+## 🖥️ Les pubs piégées sur les sites illégaux propagent des malwares
+### 📌 Les publicités sur les sites de streaming pirates exposent les utilisateurs à des malwares sophistiqués.
+**Par le Journal du Geek(17/03/25)**
+
+Microsoft Threat Intelligence a révélé qu'une vaste campagne de logiciels malveillants a touché près d’un million d’ordinateurs. Ces infections se propagent via des redirections publicitaires trompeuses menant à des fichiers hébergés sur des plateformes comme GitHub ou Discord. Une fois installés, ces malwares volent des informations sensibles et s'assurent une persistance sur le système.
+
+✅ Mesures de protection recommandées :
+🛡️ Mettre à jour son antivirus et utiliser Microsoft Defender
+🔍 Activer SmartScreen pour bloquer les sites suspects
+❌ Ne pas enregistrer ses mots de passe dans le navigateur
+🚫 Éviter les sites de streaming illégaux et utiliser un bloqueur de publicité
+🔗 [Lire l’article](https://www.journaldugeek.com/2025/03/15/les-pubs-pourries-des-sites-illegaux-menent-a-des-infections-massives/)
+
 ### 📀 Conclusion : 
 
 La cybersécurité évolue constamment face aux menaces croissantes. Les attaques par botnet exploitent les failles des entreprises peu préparées. La vigilance et les bonnes pratiques sont essentielles pour limiter les risques.
