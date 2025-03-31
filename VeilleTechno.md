@@ -1,3 +1,7 @@
+Voici la version complète avec les résumés intégrés à chaque article :
+
+---
+
 # Veille Technologique - La cybersécurité dans les infrastructures critiques : tendances et stratégies de protection
 
 **Victor Melwig--Maës**  
@@ -27,55 +31,54 @@ Je me suis créé un compte sur Le Journal du Geek, un site d'actualités techno
 
 ## 📌 Articles intéressants de ZDNet
 
-### 🤖 **L'IA et le phishing : une menace croissante**
-📌 *L’intelligence artificielle rend les attaques de phishing plus sophistiquées et difficiles à détecter.*
-
+### 🤖 **L'IA et le phishing : une menace croissante**  
+📌 *L’intelligence artificielle rend les attaques de phishing plus sophistiquées et difficiles à détecter.*  
+Avec l’aide de l’IA, les attaques de phishing deviennent plus personnalisées et dangereuses, ce qui rend leur détection difficile. Environ 90 % des cyberincidents sont liés au phishing, entraînant des coûts importants pour les entreprises.  
 🔗 [Lire l'article](https://www.zdnet.fr/actualites/lia-rend-le-phishing-plus-redoutable-que-jamais-une-nouvelle-menace-pour-les-entreprises-403837.htm)
 
 ---
 
-### 🏛️ **L’IA dans les instituts de recherche : une épée à double tranchant**
-📌 *L'IA offre des opportunités dans la recherche, mais exige rigueur et prudence.*
-
+### 🏛️ **L’IA dans les instituts de recherche : une épée à double tranchant**  
+📌 *L'IA offre des opportunités dans la recherche, mais exige rigueur et prudence.*  
+L'IA transforme la recherche scientifique, mais son utilisation nécessite de la rigueur pour éviter les erreurs. Une approche progressive et des vérifications régulières sont essentielles.  
 🔗 [Lire l'article](https://www.zdnet.fr/actualites/lia-dans-les-instituts-de-recherche-est-une-arme-a-double-tranchant-voici-comment-eviter-les-risques-404216.htm)
 
 ---
 
-### 📱 **Google renforce la sécurité des applications Android**
-📌 *Play Protect prend des mesures automatiques pour bloquer les applications nuisibles.*
-
+### 📱 **Google renforce la sécurité des applications Android**  
+📌 *Play Protect prend des mesures automatiques pour bloquer les applications nuisibles.*  
+Google met en place de nouvelles mesures pour protéger les utilisateurs Android, en révoquant automatiquement les autorisations sensibles des applications suspectes et en renforçant l'analyse des applications hors du Play Store.  
 🔗 [Lire l'article](https://www.zdnet.fr/actualites/google-supprime-automatiquement-les-autorisations-pour-les-applications-nuisibles-405375.htm)
 
 ---
 
 ## 📌 Articles intéressants du Journal du Geek
 
-### 🚀 **Une cyberattaque mondiale impliquant 2,8 millions d'adresses IP**
-📌 Une attaque massive cible les dispositifs de sécurité (pare-feu, VPN) de grandes marques comme Palo Alto Networks, Ivanti et SonicWall.
-
+### 🚀 **Une cyberattaque mondiale impliquant 2,8 millions d'adresses IP**  
+📌 *Une attaque massive cible les dispositifs de sécurité (pare-feu, VPN) de grandes marques comme Palo Alto Networks, Ivanti et SonicWall.*  
+Les hackers ont utilisé un botnet pour mener une attaque par force brute contre les dispositifs de sécurité, exposant de nombreuses entreprises à des risques accrus.  
 🔗 [Lire l'article](#)
 
 ---
 
-### 📌 **Nouvelle fuite de données importante**
-📌 *La Caisse des dépôts victime d’une fuite de données touchant 70 000 personnes.*
-
+### 📌 **Nouvelle fuite de données importante**  
+📌 *La Caisse des dépôts victime d’une fuite de données touchant 70 000 personnes.*  
+La Caisse des dépôts a été victime d’une violation de données qui a exposé des informations personnelles de milliers de personnes, mais les données sensibles comme les informations bancaires n'ont pas été compromises.  
 🔗 [Lire l'article complet](#)
 
 ---
 
-### 🖥️ **Les pubs piégées sur les sites illégaux propagent des malwares**
-📌 *Les publicités sur les sites de streaming pirates exposent les utilisateurs à des malwares sophistiqués.*
-
+### 🖥️ **Les pubs piégées sur les sites illégaux propagent des malwares**  
+📌 *Les publicités sur les sites de streaming pirates exposent les utilisateurs à des malwares sophistiqués.*  
+Les utilisateurs des sites de streaming pirates sont exposés à des malwares via des publicités trompeuses, compromettant ainsi leurs informations personnelles et leur sécurité en ligne.  
 🔗 [Lire l’article](https://www.journaldugeek.com/2025/03/15/les-pubs-pourries-des-sites-illegaux-menent-a-des-infections-massives/)
 
 ---
 
-## 📌 **Opération Cactus : quand l’Éducation nationale envoie des liens piégés aux écoliers**
-📌 *Une campagne de sensibilisation au phishing a été menée par l’Éducation nationale.*
-
+## 📌 **Opération Cactus : quand l’Éducation nationale envoie des liens piégés aux écoliers**  
+📌 *Une campagne de sensibilisation au phishing a été menée par l’Éducation nationale.*  
+L’Éducation nationale a lancé une initiative pour sensibiliser les élèves aux dangers du phishing en leur envoyant des faux liens d’hameçonnage, dans le cadre de l’opération "Cactus".  
 🔗 [Lire l'article](https://www.journaldugeek.com/2025/03/27/operation-cactus-quand-leducation-nationale-envoie-des-liens-pieges-aux-ecoliers/)
-
 
 ---
 
@@ -86,6 +89,9 @@ La cybersécurité évolue constamment face aux menaces croissantes. Les attaque
 ---
 
 🔎 **À suivre... 🚀**
+
+
+
 
 
 
