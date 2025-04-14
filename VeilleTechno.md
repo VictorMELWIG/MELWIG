@@ -1,7 +1,3 @@
-Voici la version complète avec les résumés intégrés à chaque article :
-
----
-
 # Veille Technologique - La cybersécurité dans les infrastructures critiques : tendances et stratégies de protection
 
 **Victor Melwig--Maës**  
@@ -15,16 +11,16 @@ Voici la version complète avec les résumés intégrés à chaque article :
 
 Je me suis créé un compte sur ZDNet, un site d'actualités technologiques dédié aux innovations, à la cybersécurité et aux tendances IT pour les professionnels. Il propose des analyses, conseils et informations sur :
 
-- 🛡️ Le phishing
-- 📰 Les actualités cyber (bugs, failles, attaques informatiques...)
+- 🛡️ Le phishing  
+- 📰 Les actualités cyber (bugs, failles, attaques informatiques...)  
 - 💡 Différents conseils en cybersécurité
 
 ### 🌐 Le Journal du Geek : une source d'informations technologiques
 
 Je me suis créé un compte sur Le Journal du Geek, un site d'actualités technologiques et geek couvrant les tendances high-tech, les innovations et la cybersécurité. Il propose des analyses, conseils et informations sur :
 
-- 🛡️ Le phishing et les cyberattaques
-- 📰 Les dernières tendances technologiques
+- 🛡️ Le phishing et les cyberattaques  
+- 📰 Les dernières tendances technologiques  
 - 📝 Des dossiers approfondis sur la sécurité informatique
 
 ---
@@ -75,20 +71,43 @@ Les utilisateurs des sites de streaming pirates sont exposés à des malwares vi
 
 ---
 
-## 📌 **Opération Cactus : quand l’Éducation nationale envoie des liens piégés aux écoliers**  
+### 📌 **Opération Cactus : quand l’Éducation nationale envoie des liens piégés aux écoliers**  
 📌 *Une campagne de sensibilisation au phishing a été menée par l’Éducation nationale.*  
 L’Éducation nationale a lancé une initiative pour sensibiliser les élèves aux dangers du phishing en leur envoyant des faux liens d’hameçonnage, dans le cadre de l’opération "Cactus".  
 🔗 [Lire l'article](https://www.journaldugeek.com/2025/03/27/operation-cactus-quand-leducation-nationale-envoie-des-liens-pieges-aux-ecoliers/)
 
 ---
 
+### 📆 **Pourquoi les périodes de vacances exposent votre entreprise aux cyberattaques (et comment s’en prémunir)**  
+📌 *Les périodes de fêtes sont un moment critique pour la sécurité des entreprises, en raison de la baisse de vigilance des utilisateurs et de la réduction des effectifs IT.*  
+Les fêtes de fin d’année constituent une période particulièrement propice aux cyberattaques. Les utilisateurs sont moins vigilants et les équipes informatiques souvent en effectif réduit. Cela ouvre la voie à divers types d’attaques, notamment :  
+
+- 🎯 **Ransomware** : par emails ou sites piégés  
+- ✉️ **Phishing** : envoi d’emails imitant des entreprises légitimes  
+- 🔓 **Violation de données** : par négligence ou attaque ciblée  
+- 🌐 **DDoS** : surcharge des services  
+- 🔑 **Mots de passe compromis**  
+
+Pour s’en prémunir, il est recommandé de renforcer :
+
+- Le filtrage des emails  
+- La formation des utilisateurs  
+- La politique des mots de passe  
+- Le modèle "zero-trust"  
+- La micro-segmentation et la liste blanche des applications  
+
+🔗 [Lire l'article complet](https://specopssoft.com/blog/why-the-holidays-put-your-business-at-risk-and-how-to-stay-safe)
+
+---
+
 ### 📀 **Conclusion :**
 
-La cybersécurité évolue constamment face aux menaces croissantes. Les attaques par botnet exploitent les failles des entreprises peu préparées. La vigilance et les bonnes pratiques sont essentielles pour limiter les risques.
+La cybersécurité évolue constamment face aux menaces croissantes. Les attaques par botnet exploitent les failles des entreprises peu préparées. La vigilance et les bonnes pratiques sont essentielles pour limiter les risques, surtout en période de fêtes.
 
 ---
 
 🔎 **À suivre... 🚀**
+
 
 
 
