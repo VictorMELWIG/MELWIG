@@ -7,6 +7,8 @@
     <title>Mon Portfolio</title>
     <link rel="stylesheet" href="style.css"> 
 </head>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
 <body>
     <header>
         <h1>Bienvenue sur mon portfolio</h1>
@@ -14,7 +16,7 @@
             <ul>
                 <li><a href="index.html">Accueil</a></li>
                 <li><a href="entreprise.html">Entreprise</a></li>
-                <li><a href="projet.html">Projets</a></li>
+                <li><a href="projets.html">Projets</a></li>
             </ul>
         </nav>
     </header>
@@ -22,12 +24,46 @@
     <section>
         <h2>Présentation</h2>
         <p>Je m'appelle Melwig Victor et je suis étudiant en BTS SIO opt SLAM.</p>
-        <img src="singememes.jpg.jpg" alt="Photo de Melwig " style="width: 300px;">
     </section>
+    <section>
+        <h2>Mes Compétences</h2>
+        <canvas id="skillsChart" width="400" height="300"></canvas>
+    </section>
+    <script>
+        const ctx = document.getElementById('skillsChart').getContext('2d');
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['Dev Web', 'Réseau', 'Base de données', 'Cybersécurité'],
+                datasets: [{
+                    label: 'Niveau (%)',
+                    data: [70, 45, 65, 50],
+                    backgroundColor: [
+                        '#1e3c72',
+                        '#2a5298',
+                        '#3b6cb8',
+                        '#558de8'
+                    ],
+                    borderRadius: 5
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 100
+                    }
+                }
+            }
+        });
+    </script>
+        
 
     <footer>
         <p>&copy; 2024 Melwig. Tous droits réservés. Ouai je suis quelqu'un</p>
     </footer>
 </body>
 </html>
+
 
