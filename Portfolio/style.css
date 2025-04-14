@@ -114,3 +114,9 @@ section img {
     margin: 20px auto;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
+canvas {
+    margin: 20px auto;
+    display: block;
+    max-width: 600px;
+}
+
