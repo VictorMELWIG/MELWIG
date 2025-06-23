@@ -1,35 +1,49 @@
-# Veille Technologique - La cybersécurité dans les infrastructures critiques : tendances et stratégies de protection
+# 🛡️ Veille Technologique – La cybersécurité dans les infrastructures critiques
 
-**Victor Melwig--Maës**  
-📅 06/01/2025
+**Auteur : Victor Melwig--Maës**  
+📅 *23/06/2025*
 
 ---
 
 ## 🔍 Veille Technologique
 
-### 🌐 ZDNet : une source d'informations technologiques
-
-Je me suis créé un compte sur ZDNet, un site d'actualités technologiques dédié aux innovations, à la cybersécurité et aux tendances IT pour les professionnels. Il propose des analyses, conseils et informations sur :
+### 🌐 ZDNet : une source d'informations technologiques  
+Je me suis créé un compte sur **ZDNet**, un site d'actualités technologiques dédié aux innovations, à la cybersécurité et aux tendances IT pour les professionnels. Il propose des analyses, conseils et informations sur :  
 
 - 🛡️ Le phishing  
 - 📰 Les actualités cyber (bugs, failles, attaques informatiques...)  
-- 💡 Différents conseils en cybersécurité
+- 💡 Différents conseils en cybersécurité  
 
-### 🌐 Le Journal du Geek : une source d'informations technologiques
+### 🌐 Le Journal du Geek : une autre source fiable  
+Je me suis également inscrit sur **Le Journal du Geek**, un site d'actualités geek et high-tech qui aborde :  
 
-Je me suis créé un compte sur Le Journal du Geek, un site d'actualités technologiques et geek couvrant les tendances high-tech, les innovations et la cybersécurité. Il propose des analyses, conseils et informations sur :
-
-- 🛡️ Le phishing et les cyberattaques  
-- 📰 Les dernières tendances technologiques  
-- 📝 Des dossiers approfondis sur la sécurité informatique
-
-### 🌐 **Actualités sur la cybersécurité : une source d'informations sur les vulnérabilités**
-
-Je me suis également abonné au compte Twitter **Actualités sur la cybersécurité** (@The_Cyber_News), qui partage régulièrement des informations sur les nouvelles vulnérabilités et les dernières menaces en cybersécurité.
+- ⚠️ Les cyberattaques  
+- 📱 Les nouvelles technologies  
+- 📘 Des dossiers détaillés sur la sécurité informatique  
 
 ---
 
-## 📌 Articles intéressants
+## 📌 Article à retenir
+
+### 🚨 Fuite massive : 16 milliards de comptes piratés dans la plus grosse fuite de données jamais vue  
+🗓️ *Publié le 19 juin 2025*  
+✍️ **Auteur : Gregori Pujol – Le Journal du Geek**  
+
+> C’est sans doute **la plus grande fuite de données de l’histoire**. Selon les chercheurs de **Cybernews**, plus de **16 milliards d’identifiants** (emails, noms d’utilisateur, mots de passe) ont été mis en libre accès sur un **forum de cybercriminels**.
+
+#### 💾 Une base de données structurée et "prête à l’emploi"
+- Provenance : infostealers (logiciels malveillants), phishing, anciennes fuites, extensions malveillantes.
+- Contenu : plateformes comme **Google, Facebook, Apple, GitHub**, mais aussi **banques, VPN, services gouvernementaux**.
+- Objectif des cybercriminels :  
+  - Credential stuffing (test massif d’identifiants)
+  - Piratage de comptes pro/perso  
+  - Usurpation d’identité  
+  - Déploiement de ransomwares  
+
+📎 **Lien vers l’article complet** :  
+[Le Journal du Geek - 16 milliards de comptes piratés](https://www.journaldugeek.com/2025/06/19/fuite-massive-16-milliards-de-comptes-pirates-dans-la-plus-grosse-fuite-de-donnees-jamais-vue/)
+
+---
 
 ### 🚨 **Nouvelle vulnérabilité critique iOS qui pourrait bloquer les iPhones avec une seule ligne de code**  
 📅 *Publié le 28/04/2025*  
