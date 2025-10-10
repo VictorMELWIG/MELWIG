@@ -1,0 +1,35 @@
+Victor MELWIG (10/10/25)
+Modele relationnel EasyTrain
+
+Utilisateur 
+(  
+id: int(7),  
+role: enum('admin','employe'),  
+login: varchar(50),  
+mdp: varchar(256),  
+nom: varchar(50),  
+prenom: varchar(50),  
+dateEmbauche: datetime,  
+clé primaire: id,  
+cle etrangere: /  
+)
+
+Arret  
+(  
+id: int(7),  
+nom: varchar(50),  
+cle primaire: id,  
+cle étrangère: /
+)
+
+Trajet  
+(  
+code: varchar(20),  
+tempsDepart: datetime,  
+tempsArrivee: datetime,  
+idArretDepart: int(7),  
+idArretArrive: int(7),  
+cle primaire: code,  
+cle étrangère: idArretDepart réf Arret(id),  
+cle étrangère: idArretArrive réf Arret(id)  
+)
