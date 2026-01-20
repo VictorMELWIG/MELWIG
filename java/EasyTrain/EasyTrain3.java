@@ -41,7 +41,6 @@ public class EasyTrain3 {
         return succes;
     }
 
-    // Récupérer un trajet par code
     public Trajet getTrajetByCode(String code) {
         Trajet trajet = null;
 
@@ -72,7 +71,6 @@ public class EasyTrain3 {
         return trajet;
     }
 
-    // Récupérer tous les trajets
     public ArrayList<Trajet> getAllTrajet() {
         ArrayList<Trajet> trajets = new ArrayList<>();
 
@@ -103,4 +101,5 @@ public class EasyTrain3 {
 
         return trajets;
     }
+
 }
