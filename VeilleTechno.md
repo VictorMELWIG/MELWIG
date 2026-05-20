@@ -25,6 +25,113 @@ Je me suis également inscrit sur **Le Journal du Geek**, un site d'actualités 
 
 ## 📌 Article à retenir
 
+## 🛂 **Piratage de l’ANTS : 11 millions de Français piratés, le gouvernement annonce une mesure radicale**  
+📅 *Publié le 04/05/2026*  
+🔑 **Auteur : Le Journal du Geek**  
+
+L’ANTS a été victime d’un piratage ayant compromis les données de millions de Français. Le gouvernement a annoncé des mesures de sécurité supplémentaires afin de limiter les risques de fraude et d’usurpation d’identité.  
+
+🔗 [Lire l'article](https://www.journaldugeek.com/2026/05/04/piratage-de-lants-11-millions-de-francais-pirates-le-gouvernement-annonce-une-mesure-radicale/)
+
+---
+
+## 🎓 **Piratage massif de l’Éducation nationale : les données de 35 millions d’élèves mineurs ont fuité**  
+📅 *Publié le 16/04/2026*  
+🔑 **Auteur : Le Journal du Geek**  
+
+Une importante fuite de données a touché l’Éducation nationale, exposant les informations personnelles de millions d’élèves mineurs et mettant en évidence les risques liés à la cybersécurité des institutions publiques.  
+
+🔗 [Lire l'article](https://www.journaldugeek.com/2026/04/16/piratage-massif-de-leducation-nationale-les-donnees-de-35-millions-deleves-mineurs-ont-fuite/)
+
+---
+
+## 🍎 **Apple alerte des utilisateurs d’iPhone en France après une campagne de logiciels espions**  
+📅 *Publié le 07/03/2026*  
+🔑 **Auteur : Le Journal du Geek**  
+
+Apple a averti plusieurs utilisateurs français après la découverte d’une campagne de logiciels espions visant les appareils iPhone. Ces attaques permettent potentiellement la surveillance et le vol de données personnelles.  
+
+🔗 [Lire l'article](https://www.journaldugeek.com/2026/03/07/apple-alerte-des-utilisateurs-diphone-en-france-apres-une-campagne-de-logiciels-espions/)
+
+---
+
+## 🖥️ **Pourquoi la dernière mise à jour de Windows est absolument indispensable pour la sécurité de votre PC**  
+📅 *Publié le 12/02/2026*  
+🔑 **Auteur : Le Journal du Geek**  
+
+Microsoft corrige plusieurs vulnérabilités critiques via une mise à jour de sécurité Windows essentielle pour protéger les utilisateurs contre différentes cyberattaques et failles système.  
+
+🔗 [Lire l'article](https://www.journaldugeek.com/2026/02/12/pourquoi-la-derniere-mise-a-jour-de-windows-est-absolument-indispensable-pour-la-securite-de-votre-pc/)
+
+---
+
+## 📦 **Arnaque au faux livreur : ce SMS a bien failli nous avoir**  
+📅 *Publié le 13/01/2026*  
+🔑 **Auteur : Le Journal du Geek**  
+
+Une campagne de phishing par SMS imitant des services de livraison tente de récupérer des informations personnelles et bancaires en redirigeant les utilisateurs vers de faux sites.  
+
+🔗 [Lire l'article](https://www.journaldugeek.com/2026/01/13/arnaque-au-faux-livreur-ce-sms-a-bien-failli-nous-avoir/)
+
+---
+
+## 📱 **Arnaque à l’Assurance maladie : ce QR Code peut vous coûter très cher**  
+📅 *Publié le 11/12/2025*  
+🔑 **Auteur : Le Journal du Geek**  
+
+Des cybercriminels utilisent de faux QR codes liés à l’Assurance maladie afin de rediriger les victimes vers des sites frauduleux permettant le vol de données personnelles et bancaires.  
+
+🔗 [Lire l'article](https://www.journaldugeek.com/2025/12/11/arnaque-a-lassurance-maladie-ce-qr-code-peut-vous-couter-tres-cher/)
+
+---
+
+## 🏢 **Eurofiber : une énorme fuite de données touche de nombreuses entreprises françaises**  
+📅 *Publié le 22/11/2025*  
+🔑 **Auteur : Le Journal du Geek**  
+
+Une fuite de données importante chez Eurofiber a exposé des informations concernant plusieurs entreprises françaises, mettant en évidence les risques liés à la sécurité des infrastructures numériques.  
+
+🔗 [Lire l'article](https://www.journaldugeek.com/2025/11/22/eurofiber-une-enorme-fuite-de-donnees-touche-de-nombreuses-entreprises-francaises/)
+
+---
+
+## 🤖 **Gemini : Google refuse de corriger une faille jugée sérieuse par des chercheurs en sécurité**  
+📅 *Publié le 12/10/2025*  
+🔑 **Auteur : Le Journal du Geek**  
+
+Des chercheurs en cybersécurité ont découvert une faille importante concernant Gemini, l’intelligence artificielle de Google. Malgré les alertes, Google estime que cette vulnérabilité ne nécessite pas de correction immédiate.  
+
+🔗 [Lire l'article](https://www.journaldugeek.com/2025/10/12/gemini-google-refuse-de-corriger-une-faille-jugee-serieuse-par-des-chercheurs-en-securite/)
+
+---
+
+## ☁️ **Attention : une terrible arnaque utilisant iCloud permet de dérober de l’argent**  
+📅 *Publié le 09/09/2025*  
+🔑 **Auteur : Le Journal du Geek**  
+
+Une nouvelle arnaque exploitant les services iCloud vise les utilisateurs Apple afin de récupérer des informations personnelles et bancaires. Cette technique repose principalement sur le phishing et l’ingénierie sociale.  
+
+🔗 [Lire l'article](https://www.journaldugeek.com/2025/09/09/attention-terrible-arnaque-utilise-icloud-derober-argent/)
+
+---
+
+## 📡 **Cyberattaque chez Bouygues Telecom : plus de 6 millions de comptes en danger**  
+📅 *Publié le 07/08/2025*  
+🔑 **Auteur : Le Journal du Geek**  
+
+Bouygues Telecom a été victime d’une cyberattaque ayant compromis les données de plus de 6 millions de clients. Les informations concernées incluent notamment des données personnelles et des informations de compte utilisateur.  
+
+🔗 [Lire l'article](https://www.journaldugeek.com/2025/08/07/cyberattaque-chez-bouygues-telecom-plus-de-6-millions-de-comptes-en-danger/)
+
+---
+
+## 🤖 **WormGPT refait surface : des IA grand public détournées pour faire du mal**  
+📅 *Publié le 12/07/2025*  
+🔑 **Auteur : Le Journal du Geek**  
+
+Des cybercriminels détournent certaines intelligences artificielles grand public afin de générer des emails de phishing, des scripts malveillants et des attaques automatisées. L’article évoque notamment le retour de WormGPT, une IA utilisée à des fins malveillantes dans le domaine de la cybercriminalité.  
+
+🔗 [Lire l'article](https://www.journaldugeek.com/2025/07/12/wormgpt-refait-surface-des-ia-grand-public-detournees-pour-faire-du-mal/)
 ### 🚨 Fuite massive : 16 milliards de comptes piratés dans la plus grosse fuite de données jamais vue  
 🗓️ *Publié le 19 juin 2025*  
 ✍️ **Auteur : Gregori Pujol – Le Journal du Geek**  
