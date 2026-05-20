@@ -1,4 +1,4 @@
-# 🛡️ Veille Technologique – La cybersécurité dans les infrastructures critiques
+# 🛡️ Veille Technologique – Menaces cyber et sécurité des systèmes d’information
 
 **Auteur : Victor Melwig--Maës**  
 📅 *23/06/2025*
