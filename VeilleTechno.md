@@ -138,6 +138,8 @@ Des cybercriminels détournent certaines intelligences artificielles grand publi
 
 > C’est sans doute **la plus grande fuite de données de l’histoire**. Selon les chercheurs de **Cybernews**, plus de **16 milliards d’identifiants** (emails, noms d’utilisateur, mots de passe) ont été mis en libre accès sur un **forum de cybercriminels**.
 
+---
+
 #### 💾 Une base de données structurée et "prête à l’emploi"
 - Provenance : infostealers (logiciels malveillants), phishing, anciennes fuites, extensions malveillantes.
 - Contenu : plateformes comme **Google, Facebook, Apple, GitHub**, mais aussi **banques, VPN, services gouvernementaux**.
